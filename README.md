@@ -1,10 +1,10 @@
 # landing-page
 Projeto pessoal de estudos, minha primeira landing page.
-## Ainda terá modificações##
+## Ainda terá modificações
 ## Ferramentas utilizadas
 *HTML
 *CSS
 *Gradiente
-*Formulário (<form> </form>)
+*Formulário (form)
 ## Desenvolvido Por:
 # Ana Vitória
